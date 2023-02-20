@@ -5,12 +5,20 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "ejercicio":"node hola-mundo.js",
+    "ejercicio": "node hola-mundo.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "chimuelo"
   ],
   "author": "Facundo Taddia",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faka74/EjercicioUnoOpenBootcamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Faka74/EjercicioUnoOpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/Faka74/EjercicioUnoOpenBootcamp#readme"
 }
